@@ -15,7 +15,7 @@ import javax.swing.border.Border;
  */
 public class ComponenteCampoTectoObligatorio extends javax.swing.JPanel {
 
-     private Border border = BorderFactory.createLineBorder(Color.red);
+    private Border border = BorderFactory.createLineBorder(Color.red);
     private Border bordeb = BorderFactory.createLineBorder(Color.black);
     /**
      * Creates new form ComponenteCampoTectoObligatorio
